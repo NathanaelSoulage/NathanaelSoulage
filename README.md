@@ -1,4 +1,4 @@
-I am a student enrolled in a Research Master's degree in Economics, at Sciences Po Paris. 
+Hello ! I am a student enrolled in a Research Master's degree in Economics, at Sciences Po Paris. 
 
 On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio
 
