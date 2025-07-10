@@ -1,6 +1,6 @@
 Hello ! I am a young economist, working as a predoc with Prof. Stefanie Stantcheva (Harvard University) for the year 2025-2026
 
-On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio
+On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio (https://nathanaelsoulage.github.io/)
 
 I hold a Bachelor's and Master's degree, in Economics, from Sciences Po Paris. I am a former RA for Prof. Isabelle Méjean (Sciences Po), and a data replicator for the Journal of Political Economy. 
 
