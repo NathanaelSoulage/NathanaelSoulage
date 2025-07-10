@@ -1,4 +1,4 @@
-Hello ! I am working as a predoc with Prof. Stefanie Stantcheva (Harvard University) for the year 2025-2026
+Hello ! I am a young economist, working as a predoc with Prof. Stefanie Stantcheva (Harvard University) for the year 2025-2026
 
 On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio
 
