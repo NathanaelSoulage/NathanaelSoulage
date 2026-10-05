@@ -2,7 +2,7 @@ Hello ! I am a PhD student at Sciences Po Paris, under the co-supervision of Cl�
 
 On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio (https://nathanaelsoulage.github.io/)
 
-I hold a Bachelor's and Master's degree, in Economics, from Sciences Po Paris. I am a former RA for Prof. Isabelle Méjean (Sciences Po), and a data replicator for the Journal of Political Economy. 
+I hold a Bachelor's and Master's degree, in Economics, from Sciences Po Paris. I am a former RA for Prof. Isabelle Méjean (Sciences Po), and data replicator for the Journal of Political Economy. 
 
 Feel free to reach out at nathanael.soulage(at)sciencespo.fr ! 
 <!---
