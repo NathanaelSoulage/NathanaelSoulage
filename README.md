@@ -1,4 +1,4 @@
-Hello ! I am a young economist, working as a predoc with Prof. Stefanie Stantcheva (Harvard University) for the year 2025-2026
+Hello ! I am a PhD student at Sciences Po Paris, under the co-supervision of Clément de Chaisemartin and Antoine Ferey. I mainly work on Public Economics, with complementary interest in Labor and Macroeconomics. Before that, I was working as a predoc with Prof. Stefanie Stantcheva (Harvard University) for the year 2025-2026
 
 On this GitHub account, I am sharing with you some of my projects. You can find them, presented in a nicer way, on my online portfolio (https://nathanaelsoulage.github.io/)
 
